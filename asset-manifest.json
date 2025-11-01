@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scientific-writing-quiz/static/css/main.eb9810f5.css",
+    "main.js": "/scientific-writing-quiz/static/js/main.6ee1fce0.js",
+    "index.html": "/scientific-writing-quiz/index.html",
+    "main.eb9810f5.css.map": "/scientific-writing-quiz/static/css/main.eb9810f5.css.map",
+    "main.6ee1fce0.js.map": "/scientific-writing-quiz/static/js/main.6ee1fce0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb9810f5.css",
+    "static/js/main.6ee1fce0.js"
+  ]
+}
