@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/scientific-writing-quiz/static/css/main.eb9810f5.css",
-    "main.js": "/scientific-writing-quiz/static/js/main.6ee1fce0.js",
+    "main.css": "/scientific-writing-quiz/static/css/main.f4ea22da.css",
+    "main.js": "/scientific-writing-quiz/static/js/main.e7169bc2.js",
     "index.html": "/scientific-writing-quiz/index.html",
-    "main.eb9810f5.css.map": "/scientific-writing-quiz/static/css/main.eb9810f5.css.map",
-    "main.6ee1fce0.js.map": "/scientific-writing-quiz/static/js/main.6ee1fce0.js.map"
+    "main.f4ea22da.css.map": "/scientific-writing-quiz/static/css/main.f4ea22da.css.map",
+    "main.e7169bc2.js.map": "/scientific-writing-quiz/static/js/main.e7169bc2.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb9810f5.css",
-    "static/js/main.6ee1fce0.js"
+    "static/css/main.f4ea22da.css",
+    "static/js/main.e7169bc2.js"
   ]
 }
